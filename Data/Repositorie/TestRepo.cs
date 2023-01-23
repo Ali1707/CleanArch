@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Data.Repositorie
 {
-    internal class TestRepo
+    public class TestRepo
     {
     }
 }
